@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------------------------------
+*********************
+Help Menu
+*********************
+1) help
+	Usuage: help
+	Discription: Displays commands and options discription.
+
+2) myip
+	Usuage: myip
+	Discription:Display user IP address.
+
+3) myport
+	Usuage: myport
+	Discription: Display user port number.
+
+4) connect
+	Usuage: connect [destination IP] [port number]
+	Example: connect 192.168.1.151 6000
+	Discription: Establish connection with {destination IP}  using {port number}.
+
+5) list
+	Usuage: list
+	Discription: display the list of all connections currently connected with.
+
+6) terminate
+	Usuage: Terminate [connection id] 
+	Example: Terminate 1
+	Discription: termninate the connection with a specific address.
+
+7) send 
+	Usuage: send [connection id] [message]
+	Example: send 1 hello world
+	Discription: Send message to the host on the connection that is specify with the ID.
+
+8) exit
+	Usuage: exit
+	Discription: Close all connections and terminate the program.
+--------------------------------------------------------------------------------------------------------------------
