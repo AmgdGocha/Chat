@@ -10,10 +10,10 @@
 !src/*/
 !src/*/*
 
-!libs
-!libs/
-!libs/*
-!libs/*/
-!libs/*/*
-
+!lib
+!lib/
+!lib/*
+!lib/*/
+!lib/*/*
+!chat.jar
 !*.txt
